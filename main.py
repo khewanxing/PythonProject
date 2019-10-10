@@ -1,2 +1,4 @@
-def max(a, b):
-    return a if a > b else b
+from mylib import *
+
+print(max(10, 7))
+print(max(5, 10))
